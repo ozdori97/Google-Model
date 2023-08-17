@@ -1,0 +1,32 @@
+body{
+    background: #f1f1f1;
+    font-size: 16pt;
+}
+.app{
+    position: absolute;
+    background-color: #f09c7a;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    width: 50%;
+    height: 25%;
+    margin: auto;
+    border: 2px solid #f2d096;
+    border-radius: 5pt;
+}
+.top{
+    background-color: #f2d096;
+    text-align:  center;
+    padding: 10px;
+}
+.top input{
+    width: 300px;
+}
+ol{
+    margin: 20px;
+}
+li button{
+    float: right;
+    margin-right: 5px;
+}
